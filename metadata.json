@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Discover Kosovo",
+  "description": "The country-wide guide, trails explorer, cultural passport, and diaspora companion for exploring Kosovo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
